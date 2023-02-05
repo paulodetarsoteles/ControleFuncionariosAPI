@@ -1,10 +1,10 @@
-# ControleFuncionariosAPI
+# ControleFuncionariosCRUD
 
 Projeto de estudo do curso de Java do Nélio de controle de funcionários/departamentos
 
 BackEnd: Java;
 
-Tipo: API
+Tipo: CRUD
 
 Acesso a dados usando JDBC
 
