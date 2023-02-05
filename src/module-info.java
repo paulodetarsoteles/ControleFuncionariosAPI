@@ -1,3 +1,3 @@
-module controleFuncionariosAPI {
+module controleFuncionariosCRUD {
 	requires java.sql;
 }
